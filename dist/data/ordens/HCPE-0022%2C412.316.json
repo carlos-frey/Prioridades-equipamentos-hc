@@ -1,0 +1,34 @@
+[
+  {
+    "id": "202100907.0",
+    "identificadorEquipamento": "HCPE-0022,412.316",
+    "ordemServico": "202100907.0",
+    "custo": 1450,
+    "dataInicio": "2021-12-03 14:30:00.000000",
+    "dataConclusao": "2021-03-24 14:50:00.000000"
+  },
+  {
+    "id": "202200208.0",
+    "identificadorEquipamento": "HCPE-0022,412.316",
+    "ordemServico": "202200208.0",
+    "custo": 0,
+    "dataInicio": "2022-10-01 10:38:00.000000",
+    "dataConclusao": "2022-05-26 15:59:00.000000"
+  },
+  {
+    "id": "202201310.0",
+    "identificadorEquipamento": "HCPE-0022,412.316",
+    "ordemServico": "202201310.0",
+    "custo": 1800,
+    "dataInicio": "2022-06-04 15:46:00.000000",
+    "dataConclusao": "2022-05-27 09:50:00.000000"
+  },
+  {
+    "id": "202301446.0",
+    "identificadorEquipamento": "HCPE-0022,412.316",
+    "ordemServico": "202301446.0",
+    "custo": 5760,
+    "dataInicio": "2023-04-26 10:30:00.000000",
+    "dataConclusao": "2023-10-07 12:00:00.000000"
+  }
+]

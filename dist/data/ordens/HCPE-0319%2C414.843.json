@@ -1,0 +1,74 @@
+[
+  {
+    "id": "201804302.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "201804302.0",
+    "custo": 5152,
+    "dataInicio": "2018-11-29 14:00:00.000000",
+    "dataConclusao": "2019-01-23 16:20:00.000000"
+  },
+  {
+    "id": "201900757.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "201900757.0",
+    "custo": 1.38,
+    "dataInicio": "2019-02-19 08:08:00.000000",
+    "dataConclusao": "2019-03-27 11:00:00.000000"
+  },
+  {
+    "id": "201904155.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "201904155.0",
+    "custo": 5600,
+    "dataInicio": "2019-02-10 08:15:00.000000",
+    "dataConclusao": "2020-05-18 17:00:00.000000"
+  },
+  {
+    "id": "202001667.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "202001667.0",
+    "custo": 6967.48,
+    "dataInicio": "2020-05-19 14:36:00.000000",
+    "dataConclusao": "2020-01-07 15:00:00.000000"
+  },
+  {
+    "id": "202002508.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "202002508.0",
+    "custo": 0,
+    "dataInicio": "2020-07-13 15:53:00.000000",
+    "dataConclusao": "2020-08-20 11:30:00.000000"
+  },
+  {
+    "id": "202004172.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "202004172.0",
+    "custo": 4600,
+    "dataInicio": "2020-11-18 10:26:00.000000",
+    "dataConclusao": "2021-04-26 08:02:00.000000"
+  },
+  {
+    "id": "202100506.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "202100506.0",
+    "custo": 9000,
+    "dataInicio": "2021-11-02 14:15:00.000000",
+    "dataConclusao": "2021-08-17 13:15:00.000000"
+  },
+  {
+    "id": "202102976.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "202102976.0",
+    "custo": 46827.48,
+    "dataInicio": "2021-08-25 10:10:00.000000",
+    "dataConclusao": "2023-01-11 13:05:00.000000"
+  },
+  {
+    "id": "202304301.0",
+    "identificadorEquipamento": "HCPE-0319,414.843",
+    "ordemServico": "202304301.0",
+    "custo": 3000,
+    "dataInicio": "2023-01-12 10:00:00.000000",
+    "dataConclusao": "2023-12-14 10:30:00.000000"
+  }
+]

@@ -1,6 +1,7 @@
 const getBaseUrl = () => {
-  const isGitHubPages = window.location.hostname.includes('github.io');
-  return isGitHubPages ? '/dados-saude' : '';
+  // Vite injects the right base path using import.meta.env.BASE_URL
+  // It handles both local '/' and production '/Prioridades-equipamentos-hc/'
+  return import.meta.env.BASE_URL.replace(/\/$/, ""); 
 };
 
 import { Equipment, SuggestedEquipment } from '../types/equipment';

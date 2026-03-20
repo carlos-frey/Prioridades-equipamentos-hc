@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "HCPE-3325,769.385",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "24.62",
+    "identificadorEquipamento": "HCPE-3325,769.385",
+    "ordemServico": "24.62",
+    "custo": 0,
+    "dataInicio": "2024-03-13 11:09:46.968000",
+    "dataConclusao": null
+  },
+  {
+    "id": "202300608.0",
+    "identificadorEquipamento": "HCPE-3325,769.385",
+    "ordemServico": "202300608.0",
+    "custo": 0,
+    "dataInicio": "2023-09-02 11:55:00.000000",
+    "dataConclusao": "2023-02-15 12:00:00.000000"
+  }
+]

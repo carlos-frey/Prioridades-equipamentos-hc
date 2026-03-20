@@ -1,0 +1,26 @@
+[
+  {
+    "id": "202100861.0",
+    "identificadorEquipamento": "HCPE-2529,765.100",
+    "ordemServico": "202100861.0",
+    "custo": 0,
+    "dataInicio": "2021-09-03 10:00:00.000000",
+    "dataConclusao": "2021-04-23 10:40:00.000000"
+  },
+  {
+    "id": "202102110.0",
+    "identificadorEquipamento": "HCPE-2529,765.100",
+    "ordemServico": "202102110.0",
+    "custo": 0,
+    "dataInicio": "2021-06-16 15:00:00.000000",
+    "dataConclusao": "2022-06-01 07:52:00.000000"
+  },
+  {
+    "id": "202300569.0",
+    "identificadorEquipamento": "HCPE-2529,765.100",
+    "ordemServico": "202300569.0",
+    "custo": 8435.02,
+    "dataInicio": "2023-03-02 14:17:00.000000",
+    "dataConclusao": "2023-07-27 12:00:00.000000"
+  }
+]

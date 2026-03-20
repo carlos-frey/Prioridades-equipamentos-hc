@@ -1,0 +1,18 @@
+[
+  {
+    "id": "201801286.0",
+    "identificadorEquipamento": "HCPE-1713,409.654",
+    "ordemServico": "201801286.0",
+    "custo": 0,
+    "dataInicio": "2018-03-05 15:41:00.000000",
+    "dataConclusao": "2018-08-27 17:00:00.000000"
+  },
+  {
+    "id": "201803696.0",
+    "identificadorEquipamento": "HCPE-1713,409.654",
+    "ordemServico": "201803696.0",
+    "custo": 0,
+    "dataInicio": "2018-10-22 18:45:00.000000",
+    "dataConclusao": "2018-11-23 11:25:00.000000"
+  }
+]

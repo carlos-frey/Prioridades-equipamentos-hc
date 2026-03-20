@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "HCPE-3642",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "HCPE-3642",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "24.207",
+    "identificadorEquipamento": "HCPE-3642",
+    "ordemServico": "24.207",
+    "custo": 0,
+    "dataInicio": "2024-05-13 13:16:33.982000",
+    "dataConclusao": "2024-05-16 11:24:31.263000"
+  },
+  {
+    "id": "24.207",
+    "identificadorEquipamento": "HCPE-3642",
+    "ordemServico": "24.207",
+    "custo": 0,
+    "dataInicio": "2024-05-16 11:24:30.792000",
+    "dataConclusao": "2024-05-16 11:29:43.716000"
+  }
+]

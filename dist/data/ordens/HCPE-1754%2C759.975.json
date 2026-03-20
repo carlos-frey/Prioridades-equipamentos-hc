@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "HCPE-1754,759.975",
+    "ordemServico": "Unknown",
+    "custo": 328565,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "24.433",
+    "identificadorEquipamento": "HCPE-1754,759.975",
+    "ordemServico": "24.433",
+    "custo": 328565,
+    "dataInicio": "2024-07-09 16:08:03.797000",
+    "dataConclusao": "2024-07-09 16:12:28.069000"
+  },
+  {
+    "id": "202104025.0",
+    "identificadorEquipamento": "HCPE-1754,759.975",
+    "ordemServico": "202104025.0",
+    "custo": 0,
+    "dataInicio": "2021-11-11 13:00:00.000000",
+    "dataConclusao": "2021-11-11 14:00:00.000000"
+  },
+  {
+    "id": "202104285.0",
+    "identificadorEquipamento": "HCPE-1754,759.975",
+    "ordemServico": "202104285.0",
+    "custo": 0,
+    "dataInicio": "2021-12-14 14:00:00.000000",
+    "dataConclusao": "2022-08-02 16:00:00.000000"
+  }
+]

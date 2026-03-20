@@ -1,0 +1,218 @@
+[
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 43510,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 50600,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 188400,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 2450,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 16500,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "24.1148",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "24.1148",
+    "custo": 43510,
+    "dataInicio": "2024-11-21 07:57:56.773000",
+    "dataConclusao": "2024-11-21 08:02:33.728000"
+  },
+  {
+    "id": "24.1255",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "24.1255",
+    "custo": 50600,
+    "dataInicio": "2024-12-13 15:58:46.438000",
+    "dataConclusao": "2024-12-13 16:05:14.908000"
+  },
+  {
+    "id": "25.91",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "25.91",
+    "custo": 188400,
+    "dataInicio": "2025-01-15 15:33:40.794000",
+    "dataConclusao": "2025-01-15 15:53:01.984000"
+  },
+  {
+    "id": "25.2659",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "25.2659",
+    "custo": 2450,
+    "dataInicio": "2025-10-03 09:05:18.654000",
+    "dataConclusao": "2025-10-03 09:11:49.846000"
+  },
+  {
+    "id": "25.2663",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "25.2663",
+    "custo": 16500,
+    "dataInicio": "2025-10-03 10:25:21.492000",
+    "dataConclusao": "2025-10-03 10:32:13.923000"
+  },
+  {
+    "id": "25.243",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "25.243",
+    "custo": 0,
+    "dataInicio": "2025-09-18 16:28:15.539000",
+    "dataConclusao": "2025-09-23 10:21:18.829000"
+  },
+  {
+    "id": "24.589",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "24.589",
+    "custo": 0,
+    "dataInicio": "2024-08-28 11:00:16.456000",
+    "dataConclusao": "2024-08-28 11:03:37.454000"
+  },
+  {
+    "id": "24.59",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "24.59",
+    "custo": 0,
+    "dataInicio": "2024-08-28 11:00:30.054000",
+    "dataConclusao": "2024-08-28 11:05:52.017000"
+  },
+  {
+    "id": "24.845",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "24.845",
+    "custo": 0,
+    "dataInicio": "2024-10-10 15:02:15.573000",
+    "dataConclusao": "2024-10-25 08:45:22.685000"
+  },
+  {
+    "id": "24.588",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "24.588",
+    "custo": 0,
+    "dataInicio": "2024-08-28 11:00:04.006000",
+    "dataConclusao": "2024-08-28 11:01:20.615000"
+  },
+  {
+    "id": "24.95",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "24.95",
+    "custo": 0,
+    "dataInicio": "2024-10-31 08:20:16.881000",
+    "dataConclusao": "2025-05-21 14:22:25.544000"
+  },
+  {
+    "id": "24.1044",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "24.1044",
+    "custo": 0,
+    "dataInicio": "2024-11-12 12:49:33.031000",
+    "dataConclusao": "2024-11-12 12:50:35.235000"
+  },
+  {
+    "id": "201801228.0",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "201801228.0",
+    "custo": 0,
+    "dataInicio": "2018-05-14 09:13:00.000000",
+    "dataConclusao": "2018-05-16 16:00:00.000000"
+  },
+  {
+    "id": "202100236.0",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "202100236.0",
+    "custo": 0,
+    "dataInicio": "2021-01-25 13:23:00.000000",
+    "dataConclusao": "2021-01-25 15:58:00.000000"
+  },
+  {
+    "id": "202100807.0",
+    "identificadorEquipamento": "nan",
+    "ordemServico": "202100807.0",
+    "custo": 1230,
+    "dataInicio": "2021-03-03 07:53:00.000000",
+    "dataConclusao": "2021-04-22 12:00:00.000000"
+  }
+]

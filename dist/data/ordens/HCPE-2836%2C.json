@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "HCPE-2836,",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "24.216",
+    "identificadorEquipamento": "HCPE-2836,",
+    "ordemServico": "24.216",
+    "custo": 0,
+    "dataInicio": "2024-05-15 10:11:48.253000",
+    "dataConclusao": "2024-06-03 14:04:41.785000"
+  }
+]

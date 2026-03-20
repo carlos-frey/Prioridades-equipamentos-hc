@@ -7,7 +7,7 @@ export default defineConfig(({ command, mode }) => {
   return {
     // Altere este base se o seu repositório no GitHub não se chamar "dados-saude"
     // Ex: repositório github.com/seu-user/meu-dashboard => base: '/meu-dashboard/'
-    base: mode === 'production' ? '/dados-saude/' : '/',
+    base: mode === 'production' ? '/Prioridades-equipamentos-hc/' : '/',
     plugins: [
       react(),
       tailwindcss(),
