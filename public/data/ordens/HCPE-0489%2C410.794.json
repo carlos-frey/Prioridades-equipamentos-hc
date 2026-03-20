@@ -1,0 +1,18 @@
+[
+  {
+    "id": "201903802.0",
+    "identificadorEquipamento": "HCPE-0489,410.794",
+    "ordemServico": "201903802.0",
+    "custo": 9837.79,
+    "dataInicio": "2019-06-09 15:08:00.000000",
+    "dataConclusao": "2021-06-10 14:32:00.000000"
+  },
+  {
+    "id": "202103602.0",
+    "identificadorEquipamento": "HCPE-0489,410.794",
+    "ordemServico": "202103602.0",
+    "custo": 0,
+    "dataInicio": "2021-10-19 13:00:00.000000",
+    "dataConclusao": "2021-10-21 11:00:00.000000"
+  }
+]

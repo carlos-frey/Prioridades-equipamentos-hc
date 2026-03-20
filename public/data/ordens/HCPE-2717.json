@@ -1,0 +1,26 @@
+[
+  {
+    "id": "202101785.0",
+    "identificadorEquipamento": "HCPE-2717",
+    "ordemServico": "202101785.0",
+    "custo": 0,
+    "dataInicio": "2021-05-26 12:20:00.000000",
+    "dataConclusao": "2021-04-06 11:35:00.000000"
+  },
+  {
+    "id": "202200634.0",
+    "identificadorEquipamento": "HCPE-2717",
+    "ordemServico": "202200634.0",
+    "custo": 0,
+    "dataInicio": "2022-02-14 08:37:00.000000",
+    "dataConclusao": "2022-06-04 14:25:00.000000"
+  },
+  {
+    "id": "202203548.0",
+    "identificadorEquipamento": "HCPE-2717",
+    "ordemServico": "202203548.0",
+    "custo": 0,
+    "dataInicio": "2022-11-08 08:00:00.000000",
+    "dataConclusao": "2022-09-14 09:08:00.000000"
+  }
+]

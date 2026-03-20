@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "HCPE-2105",
+    "ordemServico": "Unknown",
+    "custo": 4700007,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "24.661",
+    "identificadorEquipamento": "HCPE-2105",
+    "ordemServico": "24.661",
+    "custo": 4700007,
+    "dataInicio": "2024-09-18 14:21:57.873000",
+    "dataConclusao": "2024-09-18 14:37:17.977000"
+  },
+  {
+    "id": "201902900.0",
+    "identificadorEquipamento": "HCPE-2105",
+    "ordemServico": "201902900.0",
+    "custo": 0,
+    "dataInicio": "2019-11-07 14:00:00.000000",
+    "dataConclusao": "2019-01-08 08:05:00.000000"
+  },
+  {
+    "id": "202100783.0",
+    "identificadorEquipamento": "HCPE-2105",
+    "ordemServico": "202100783.0",
+    "custo": 0,
+    "dataInicio": "2021-01-03 16:52:00.000000",
+    "dataConclusao": "2021-01-06 08:08:00.000000"
+  }
+]

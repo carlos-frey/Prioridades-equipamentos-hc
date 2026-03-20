@@ -1,0 +1,26 @@
+[
+  {
+    "id": "202300953.0",
+    "identificadorEquipamento": "HCPE-3055",
+    "ordemServico": "202300953.0",
+    "custo": 495,
+    "dataInicio": "2023-02-15 08:00:00.000000",
+    "dataConclusao": "2023-10-03 12:00:00.000000"
+  },
+  {
+    "id": "202302855.0",
+    "identificadorEquipamento": "HCPE-3055",
+    "ordemServico": "202302855.0",
+    "custo": 495,
+    "dataInicio": "2023-08-08 14:00:00.000000",
+    "dataConclusao": "2023-09-08 15:00:00.000000"
+  },
+  {
+    "id": "202304354.0",
+    "identificadorEquipamento": "HCPE-3055",
+    "ordemServico": "202304354.0",
+    "custo": 595,
+    "dataInicio": "2023-05-12 13:30:00.000000",
+    "dataConclusao": "2023-12-13 12:00:00.000000"
+  }
+]

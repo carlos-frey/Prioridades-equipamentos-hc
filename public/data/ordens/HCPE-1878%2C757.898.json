@@ -1,0 +1,26 @@
+[
+  {
+    "id": "201801291.0",
+    "identificadorEquipamento": "HCPE-1878,757.898",
+    "ordemServico": "201801291.0",
+    "custo": 390,
+    "dataInicio": "2018-05-18 09:10:00.000000",
+    "dataConclusao": "2018-08-28 13:30:00.000000"
+  },
+  {
+    "id": "202103958.0",
+    "identificadorEquipamento": "HCPE-1878,757.898",
+    "ordemServico": "202103958.0",
+    "custo": 380,
+    "dataInicio": "2021-10-11 10:17:00.000000",
+    "dataConclusao": "2022-01-18 08:35:00.000000"
+  },
+  {
+    "id": "202301073.0",
+    "identificadorEquipamento": "HCPE-1878,757.898",
+    "ordemServico": "202301073.0",
+    "custo": 750,
+    "dataInicio": "2023-03-27 11:44:00.000000",
+    "dataConclusao": "2023-04-27 10:32:00.000000"
+  }
+]

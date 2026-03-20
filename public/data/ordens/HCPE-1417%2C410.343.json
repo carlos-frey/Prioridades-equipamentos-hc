@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "HCPE-1417,410.343",
+    "ordemServico": "Unknown",
+    "custo": 137500,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "24.27",
+    "identificadorEquipamento": "HCPE-1417,410.343",
+    "ordemServico": "24.27",
+    "custo": 137500,
+    "dataInicio": "2024-06-11 10:42:53.674000",
+    "dataConclusao": "2024-06-12 13:39:49.364000"
+  },
+  {
+    "id": "202300312.0",
+    "identificadorEquipamento": "HCPE-1417,410.343",
+    "ordemServico": "202300312.0",
+    "custo": 4378.85,
+    "dataInicio": "2023-01-26 11:00:00.000000",
+    "dataConclusao": "2023-10-02 16:00:00.000000"
+  }
+]
