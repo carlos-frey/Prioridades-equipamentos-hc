@@ -74,7 +74,7 @@ export const equipments: Equipment[] = [
   {
     id: 'EQ-008',
     modelo: 'Bomba de Infusão Baxter Colleague 3',
-    fabricante: 'Baxter',
+    fabricante: 'Baxter ',
     setor: 'Emergência',
     status: 'Operacional',
     custo: 8500,
