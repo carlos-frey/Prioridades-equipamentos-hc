@@ -1,0 +1,18 @@
+[
+  {
+    "id": "202204020.0",
+    "identificadorEquipamento": "HCPE-3095,770.850",
+    "ordemServico": "202204020.0",
+    "custo": 0,
+    "dataInicio": "2022-10-18 09:00:00.000000",
+    "dataConclusao": "2022-11-29 16:20:00.000000"
+  },
+  {
+    "id": "202302830.0",
+    "identificadorEquipamento": "HCPE-3095,770.850",
+    "ordemServico": "202302830.0",
+    "custo": 0,
+    "dataInicio": "2023-07-08 08:59:00.000000",
+    "dataConclusao": "2023-08-15 15:10:00.000000"
+  }
+]

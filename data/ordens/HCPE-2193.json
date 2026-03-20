@@ -1,0 +1,98 @@
+[
+  {
+    "id": "201903412.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "201903412.0",
+    "custo": 0,
+    "dataInicio": "2019-08-20 10:04:00.000000",
+    "dataConclusao": "2019-08-20 14:45:00.000000"
+  },
+  {
+    "id": "201904763.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "201904763.0",
+    "custo": 0,
+    "dataInicio": "2019-11-11 13:30:00.000000",
+    "dataConclusao": "2019-11-11 14:30:00.000000"
+  },
+  {
+    "id": "202002185.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202002185.0",
+    "custo": 0,
+    "dataInicio": "2020-06-19 11:07:00.000000",
+    "dataConclusao": "2020-06-25 10:10:00.000000"
+  },
+  {
+    "id": "202003627.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202003627.0",
+    "custo": 0,
+    "dataInicio": "2020-10-16 11:49:00.000000",
+    "dataConclusao": "2020-10-20 13:30:00.000000"
+  },
+  {
+    "id": "202101410.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202101410.0",
+    "custo": 0,
+    "dataInicio": "2021-04-22 12:37:00.000000",
+    "dataConclusao": "2021-04-26 11:46:00.000000"
+  },
+  {
+    "id": "202103656.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202103656.0",
+    "custo": 0,
+    "dataInicio": "2021-10-25 11:44:00.000000",
+    "dataConclusao": "2021-03-11 11:50:00.000000"
+  },
+  {
+    "id": "202103953.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202103953.0",
+    "custo": 0,
+    "dataInicio": "2021-09-11 15:27:00.000000",
+    "dataConclusao": "2021-11-17 08:00:00.000000"
+  },
+  {
+    "id": "202200910.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202200910.0",
+    "custo": 0,
+    "dataInicio": "2022-08-03 09:00:00.000000",
+    "dataConclusao": "2022-09-03 08:00:00.000000"
+  },
+  {
+    "id": "202201081.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202201081.0",
+    "custo": 0,
+    "dataInicio": "2022-03-29 09:41:00.000000",
+    "dataConclusao": "2022-06-27 17:12:00.000000"
+  },
+  {
+    "id": "202203155.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202203155.0",
+    "custo": 0,
+    "dataInicio": "2022-08-18 16:03:00.000000",
+    "dataConclusao": "2022-08-26 09:00:00.000000"
+  },
+  {
+    "id": "202203244.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202203244.0",
+    "custo": 0,
+    "dataInicio": "2022-08-30 13:00:00.000000",
+    "dataConclusao": "2022-01-09 15:58:00.000000"
+  },
+  {
+    "id": "202204112.0",
+    "identificadorEquipamento": "HCPE-2193",
+    "ordemServico": "202204112.0",
+    "custo": 0,
+    "dataInicio": "2022-10-28 13:30:00.000000",
+    "dataConclusao": "2022-01-11 12:00:00.000000"
+  }
+]

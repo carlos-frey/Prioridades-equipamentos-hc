@@ -1,0 +1,26 @@
+[
+  {
+    "id": "201903386.0",
+    "identificadorEquipamento": "HCPE-2227",
+    "ordemServico": "201903386.0",
+    "custo": 7000,
+    "dataInicio": "2019-08-16 16:43:00.000000",
+    "dataConclusao": "2019-09-19 08:00:00.000000"
+  },
+  {
+    "id": "201905106.0",
+    "identificadorEquipamento": "HCPE-2227",
+    "ordemServico": "201905106.0",
+    "custo": 3500,
+    "dataInicio": "2019-12-20 11:49:00.000000",
+    "dataConclusao": "2020-12-02 08:15:00.000000"
+  },
+  {
+    "id": "202000899.0",
+    "identificadorEquipamento": "HCPE-2227",
+    "ordemServico": "202000899.0",
+    "custo": 0,
+    "dataInicio": "2020-11-03 07:13:00.000000",
+    "dataConclusao": "2020-12-06 13:30:00.000000"
+  }
+]

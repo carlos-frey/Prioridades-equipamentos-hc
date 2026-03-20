@@ -1,0 +1,26 @@
+[
+  {
+    "id": "201800112.0",
+    "identificadorEquipamento": "HCPE-0626,409.252",
+    "ordemServico": "201800112.0",
+    "custo": 0,
+    "dataInicio": "2018-07-03 07:50:00.000000",
+    "dataConclusao": "2018-03-21 15:10:00.000000"
+  },
+  {
+    "id": "201800659.0",
+    "identificadorEquipamento": "HCPE-0626,409.252",
+    "ordemServico": "201800659.0",
+    "custo": 0,
+    "dataInicio": "2018-06-04 11:06:00.000000",
+    "dataConclusao": "2018-04-30 15:27:00.000000"
+  },
+  {
+    "id": "201803205.0",
+    "identificadorEquipamento": "HCPE-0626,409.252",
+    "ordemServico": "201803205.0",
+    "custo": 0,
+    "dataInicio": "2018-09-24 13:17:00.000000",
+    "dataConclusao": "2018-11-19 08:00:00.000000"
+  }
+]

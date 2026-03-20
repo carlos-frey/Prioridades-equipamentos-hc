@@ -1,0 +1,26 @@
+[
+  {
+    "id": "201801106.0",
+    "identificadorEquipamento": "HCPE-1820",
+    "ordemServico": "201801106.0",
+    "custo": 0,
+    "dataInicio": "2018-04-05 17:28:00.000000",
+    "dataConclusao": "2018-04-06 08:00:00.000000"
+  },
+  {
+    "id": "202001966.0",
+    "identificadorEquipamento": "HCPE-1820",
+    "ordemServico": "202001966.0",
+    "custo": 0,
+    "dataInicio": "2020-01-06 08:36:00.000000",
+    "dataConclusao": "2020-06-18 13:00:00.000000"
+  },
+  {
+    "id": "202204772.0",
+    "identificadorEquipamento": "HCPE-1820",
+    "ordemServico": "202204772.0",
+    "custo": 0,
+    "dataInicio": "2022-12-22 10:00:00.000000",
+    "dataConclusao": "2022-12-29 12:00:00.000000"
+  }
+]

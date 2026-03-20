@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Unknown",
+    "identificadorEquipamento": "HCPE-3837",
+    "ordemServico": "Unknown",
+    "custo": 0,
+    "dataInicio": null,
+    "dataConclusao": null
+  },
+  {
+    "id": "25.2843",
+    "identificadorEquipamento": "HCPE-3837",
+    "ordemServico": "25.2843",
+    "custo": 0,
+    "dataInicio": "2025-10-21 13:45:32.073000",
+    "dataConclusao": "2025-11-12 09:24:21.424000"
+  }
+]

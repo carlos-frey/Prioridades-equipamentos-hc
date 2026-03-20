@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "identificador": "HCPE-0490,757.896",
+    "modelo": "OXYLOG-3000",
+    "fabricante": "DRAGER",
+    "setor": "UTI ADULTO",
+    "dataAquisicao": "2009-01-01 00:00:00.000000",
+    "custo": 1,
+    "status": "Operacional",
+    "totalCustoExterno": 1340567,
+    "prioridadeScore": 0.7855679789413079
+  },
+  {
+    "id": 3,
+    "identificador": "HCPE-1311,407.202",
+    "modelo": "IT-158-TS",
+    "fabricante": "FANEM",
+    "setor": "CENTRO OBSTÉTRICO",
+    "dataAquisicao": "2003-01-01 00:00:00.000000",
+    "custo": 20000,
+    "status": "Operacional",
+    "totalCustoExterno": 44560,
+    "prioridadeScore": 0.7028442510830304
+  },
+  {
+    "id": 2,
+    "identificador": "HCPE-0319,414.843",
+    "modelo": "AXIOM ICONOS MD",
+    "fabricante": "SIEMENS",
+    "setor": "TELECOMANDADO",
+    "dataAquisicao": "2012-01-02 00:00:00.000000",
+    "custo": 800000,
+    "status": "Operacional",
+    "totalCustoExterno": 0,
+    "prioridadeScore": 0.7
+  },
+  {
+    "id": 4,
+    "identificador": "HCPE-1344,417.828",
+    "modelo": "DISCOVERY",
+    "fabricante": "GE HEALTHCARE",
+    "setor": "PET SCAN",
+    "dataAquisicao": "2013-01-01 00:00:00.000000",
+    "custo": 6200000,
+    "status": "Operacional",
+    "totalCustoExterno": 0,
+    "prioridadeScore": 0.7
+  },
+  {
+    "id": 5,
+    "identificador": "HCPE-1384,410.888",
+    "modelo": "FABIUS GS PREMIUM",
+    "fabricante": "DRAGER",
+    "setor": "UNIDADE DE BLOCOS CIRÚRGICOS",
+    "dataAquisicao": "2008-03-01 00:00:00.000000",
+    "custo": 105000,
+    "status": "Operacional",
+    "totalCustoExterno": 0,
+    "prioridadeScore": 0.7
+  }
+]

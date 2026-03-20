@@ -1,0 +1,18 @@
+[
+  {
+    "id": "202200996.0",
+    "identificadorEquipamento": "HCPE-3004",
+    "ordemServico": "202200996.0",
+    "custo": 0,
+    "dataInicio": "2022-03-21 07:30:00.000000",
+    "dataConclusao": "2022-03-31 16:36:00.000000"
+  },
+  {
+    "id": "202204493.0",
+    "identificadorEquipamento": "HCPE-3004",
+    "ordemServico": "202204493.0",
+    "custo": 4057.06,
+    "dataInicio": "2022-11-25 14:30:00.000000",
+    "dataConclusao": "2023-12-01 09:00:00.000000"
+  }
+]

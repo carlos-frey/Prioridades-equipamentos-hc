@@ -1,0 +1,18 @@
+[
+  {
+    "id": "202100772.0",
+    "identificadorEquipamento": "HCPE-1647,410.332",
+    "ordemServico": "202100772.0",
+    "custo": 9949.39,
+    "dataInicio": "2021-01-03 08:55:00.000000",
+    "dataConclusao": "2021-06-18 11:30:00.000000"
+  },
+  {
+    "id": "202104062.0",
+    "identificadorEquipamento": "HCPE-1647,410.332",
+    "ordemServico": "202104062.0",
+    "custo": 0,
+    "dataInicio": "2021-11-25 08:10:00.000000",
+    "dataConclusao": "2021-11-29 16:00:00.000000"
+  }
+]

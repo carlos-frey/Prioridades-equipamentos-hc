@@ -1,0 +1,18 @@
+[
+  {
+    "id": "202203970.0",
+    "identificadorEquipamento": "HCPE-1155",
+    "ordemServico": "202203970.0",
+    "custo": 0,
+    "dataInicio": "2022-10-10 09:35:00.000000",
+    "dataConclusao": "2022-08-11 10:30:00.000000"
+  },
+  {
+    "id": "202301258.0",
+    "identificadorEquipamento": "HCPE-1155",
+    "ordemServico": "202301258.0",
+    "custo": 0,
+    "dataInicio": "2023-03-04 08:00:00.000000",
+    "dataConclusao": "2023-04-20 17:00:00.000000"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "202003653.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202003653.0",
+    "custo": 900,
+    "dataInicio": "2020-10-21 14:26:00.000000",
+    "dataConclusao": "2020-06-11 16:15:00.000000"
+  },
+  {
+    "id": "202102002.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202102002.0",
+    "custo": 1440,
+    "dataInicio": "2021-02-06 14:29:00.000000",
+    "dataConclusao": "2021-02-07 14:58:00.000000"
+  },
+  {
+    "id": "202102947.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202102947.0",
+    "custo": 0,
+    "dataInicio": "2021-08-27 13:00:00.000000",
+    "dataConclusao": "2021-09-15 13:30:00.000000"
+  },
+  {
+    "id": "202103319.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202103319.0",
+    "custo": 0,
+    "dataInicio": "2021-09-29 11:02:00.000000",
+    "dataConclusao": "2021-04-11 15:55:00.000000"
+  },
+  {
+    "id": "202203069.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202203069.0",
+    "custo": 1200,
+    "dataInicio": "2022-04-08 09:05:00.000000",
+    "dataConclusao": "2022-09-26 16:08:00.000000"
+  },
+  {
+    "id": "202204383.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202204383.0",
+    "custo": 0,
+    "dataInicio": "2022-08-11 10:00:00.000000",
+    "dataConclusao": "2022-11-18 16:40:00.000000"
+  },
+  {
+    "id": "202300549.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202300549.0",
+    "custo": 1900,
+    "dataInicio": "2023-01-02 10:47:00.000000",
+    "dataConclusao": "2023-03-02 15:00:00.000000"
+  },
+  {
+    "id": "202301054.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202301054.0",
+    "custo": 0,
+    "dataInicio": "2023-03-24 08:00:00.000000",
+    "dataConclusao": "2023-02-10 09:15:00.000000"
+  },
+  {
+    "id": "202304031.0",
+    "identificadorEquipamento": "HCPE-2853",
+    "ordemServico": "202304031.0",
+    "custo": 1100,
+    "dataInicio": "2023-01-11 08:00:00.000000",
+    "dataConclusao": "2023-07-12 14:30:00.000000"
+  }
+]
